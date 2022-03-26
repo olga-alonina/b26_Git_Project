@@ -1,7 +1,10 @@
 package March26_day0;
 
 public class First {
-    //todo work on this tomorrow
+    public static void main(String[] args) {
+        System.out.println("java");
+        System.out.println("working....");
+    }
 
-    //extra line1
+
 }
