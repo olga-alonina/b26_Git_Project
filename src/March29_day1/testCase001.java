@@ -23,4 +23,17 @@ public class testCase001 {
     //	add Car between Towel and Hat
     //
     //Print the ArrayList after each action to see how the change is made
+    //Practice flow:
+    //
+    //Create an ArrayList of Strings
+    //add these elements:
+    //	Iron Man, Spider Man, Thor, Captain America, Hawkeye
+    //
+    //	remove Thor by index
+    //
+    //	remove Iron Man by element
+    //
+    //	remove the first index
+    //
+    //Print the ArrayList after each action to see how the change is made
 }
