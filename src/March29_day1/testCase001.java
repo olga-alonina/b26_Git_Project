@@ -9,4 +9,18 @@ public class testCase001 {
     //Please submit any questions to support@cybertekschool.com.
     //
     //Starting Date Time: Mar 28, 2022 07:00 PM Eastern Time (US and Canada)
+    //ArrayList Practice
+    //----------------------------------------------------------
+    //
+    //Practice flow:
+    //
+    //Create an ArrayList of Strings
+    //add these elements:
+    //	add Hat
+    //	add Shoes
+    //	add Jacket in middle of Hat and Shoes
+    //	add Towel in the beginning
+    //	add Car between Towel and Hat
+    //
+    //Print the ArrayList after each action to see how the change is made
 }
